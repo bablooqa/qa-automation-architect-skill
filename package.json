@@ -1,6 +1,6 @@
 {
   "name": "qa-automation-architect-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI QA Automation Architect skill for designing, generating, optimizing, and debugging production-grade QA automation and AI testing systems.",
   "main": "index.js",
   "scripts": {
