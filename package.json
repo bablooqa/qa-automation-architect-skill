@@ -1,0 +1,33 @@
+{
+  "name": "qa-automation-architect-skill",
+  "version": "1.0.0",
+  "description": "AI QA Automation Architect skill for designing, generating, optimizing, and debugging production-grade QA automation and AI testing systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bablooqa/qa-automation-architect-skill.git"
+  },
+  "keywords": [
+    "ai",
+    "prompt",
+    "qa",
+    "automation",
+    "testing",
+    "cursor",
+    "windsurf",
+    "playwright",
+    "selenium",
+    "pytest",
+    "llm",
+    "agent"
+  ],
+  "author": "bablookumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bablooqa/qa-automation-architect-skill/issues"
+  },
+  "homepage": "https://github.com/bablooqa/qa-automation-architect-skill#readme"
+}
